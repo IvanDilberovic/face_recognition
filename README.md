@@ -1,2 +1,2 @@
 
-A litlle React application for face recognition
+A little React application for face recognition
